@@ -1,5 +1,5 @@
 
-# 🇮🇳 Gov Scheme Finder
+# Gov Scheme Finder
 
 ## About the Project
 Gov Scheme Finder is a platform that helps users discover Indian government schemes based on their personal details and eligibility criteria.
